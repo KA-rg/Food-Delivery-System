@@ -1,0 +1,13 @@
+Promo code functionality on the showcart page.
+
+Search icon functionality.
+
+Add reviews functionality.
+
+QR code UPI payment.
+
+Track Order on myorders page.
+
+DARK MODE.
+
+Remove element api fn from admin.
